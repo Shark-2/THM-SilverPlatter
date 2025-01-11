@@ -1,3 +1,4 @@
+# hint: wordlist can be generated using the cewl tool
 import requests
 
 # The URL to send the POST request to
